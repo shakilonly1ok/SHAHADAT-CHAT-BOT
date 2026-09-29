@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "shakilchatbot",
   "version": "3.0.0",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By Shakil",
   "main": "Main.js",
   "engines": {
     "node": "22.x",
